@@ -2,17 +2,32 @@
 Package: com.abosefo.Barmoji
 Name: Barmoji Tw
 Version: 1.0
-Filename: ./debs/barmoji_1.0_iphoneos-arm.deb
+Filename: ./debs/barmoji_1.0_iphoneos-arm
 Size: 7228  
 MD5sum: 769e36964ec1315a1abd41ba17d54a18
 Architecture: iphoneos-arm
 Section: iOS11.3.x
 Maintainer: Abo.SeFo.Nashed
 Author: Abo.SeFo.Nashed
+Author email: Abo.SeFo@me.com
 Homepage: https://twitter.com/AboSeFo
 Depends: firmware (>7.0), mobilesubstrate
 Description: Barmoji
 Depiction:
 
-
+Package: com.abosefo.audiorecorder2
+Name: AudioRecorder 2 (iOS 8,9,10,11)
+Version: 1.6-46k
+Filename: ./debs/audiorecorder2_1.6-46k_iphoneos-arm.deb
+Size: 3821744
+MD5sum: 0b980d9068b14d24f3899e5726d8b586
+Architecture: iphoneos-arm
+Section: iOS11.3.x
+Maintainer: Abo.SeFo.Nashed
+Author: Abo.SeFo.Nashed
+Author email: Abo.SeFo@me.com
+Homepage: https://twitter.com/AboSeFo
+Depends: firmware (>7.0), mobilesubstrate
+Description:
+Depiction: 
 
