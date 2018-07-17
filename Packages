@@ -1,0 +1,15 @@
+Package: com.abosefo.Barmoji
+Version: 1.0
+Section: Tweaks
+Maintainer: Abo.SeFo.Nashed
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/barmoji_1.0_iphoneos-arm.deb
+Size: 7228  
+MD5sum: 769e36964ec1315a1abd41ba17d54a18
+Description: Barmoji
+Name: Barmoji Tw
+Author: Abo.SeFo.Nashed
+Depiction: 
+
+
