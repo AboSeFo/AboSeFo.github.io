@@ -43,3 +43,18 @@ Homepage: https://twitter.com/AboSeFo
 Depends: firmware (>7.0), mobilesubstrate
 Description:
 Depiction: 
+
+Package: com.abosefo.shieldxi
+Name: shieldxi
+Version: 1.0.0
+Filename: ./debs/shieldxi_1.0.0.deb
+Size: 467800 
+MD5sum: d617c3689059ce11bd6873e908c4ed90
+Architecture: iphoneos-arm
+Section: iOS11.3.x
+Maintainer: Abo.SeFo.Nashed
+Author: Abo.SeFo.Nashed
+Homepage: https://twitter.com/AboSeFo
+Depends: firmware (>7.0), mobilesubstrate
+Description:
+Depiction: 
