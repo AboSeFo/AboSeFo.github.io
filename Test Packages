@@ -1,0 +1,14 @@
+Package: com.abosefo.
+Name: 
+Version: 
+Filename: ./debs/.deb
+Size: 7228  
+MD5sum: 769e36964ec1315a1abd41ba17d54a18
+Architecture: iphoneos-arm
+Section: iOS11.3.x
+Maintainer: Abo.SeFo.Nashed
+Author: Abo.SeFo.Nashed
+Homepage: https://twitter.com/AboSeFo
+Depends: firmware (>7.0), mobilesubstrate
+Description:
+Depiction: 
