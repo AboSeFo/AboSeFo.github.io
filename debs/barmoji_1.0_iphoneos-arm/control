@@ -1,0 +1,18 @@
+Package: com.abosefo.Barmoji
+Version: 1.0
+Section: iOS11.3.x
+Maintainer: Tw-Store
+Architecture: iphoneos-arm
+Description: Barmoji
+Name: Barmoji Tw
+Author: Abo.SeFo.Nashed
+Author email: Abo.SeFo@me.com
+Homepage: https://twitter.com/AboSeFo
+Depiction:  يمكنكم الاتصال بنا عبر مسجات الواتس او الفايس او على ارقام التالية :
+ الجوال : "0966614800" - "0937865717" 
+الهاتف الارضي :( 0212662272 )
+
+نرحب بكم ضمن المركز : حلب الموكامبو خلف جامع الروضة جانب صيدلية الآغا لنهتم بكم ❤
+موقع المحل :📍goo.gl/maps/ADGMPK6dUm92
+Depends: mobilesubstrate
+
