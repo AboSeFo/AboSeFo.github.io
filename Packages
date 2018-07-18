@@ -58,3 +58,48 @@ Homepage: https://twitter.com/AboSeFo
 Depends: firmware (>7.0), mobilesubstrate
 Description:
 Depiction: 
+
+Package: com.abosefo.cracktool3
+Name: CrackTool3 (iOS 11)
+Version: 3.0~beta3
+Filename: ./debs/cracktool3_3.0~beta3.deb
+Size: 115940 
+MD5sum: 0183f90dfe72f3d35a7be7776b45bb11
+Architecture: iphoneos-arm
+Section: iOS11.3.x
+Maintainer: Abo.SeFo.Nashed
+Author: Abo.SeFo.Nashed
+Homepage: https://twitter.com/AboSeFo
+Depends: firmware (>7.0), mobilesubstrate
+Description:
+Depiction: 
+
+Package: com.abosefo.betterx
+Name: BetterX
+Version: 1.0
+Filename: ./debs/betterx_1.0.deb
+Size: 2476 
+MD5sum: 9f0dec0f5531cb57367b3cbb5e4f5968
+Architecture: iphoneos-arm
+Section: iOS11.3.x
+Maintainer: Abo.SeFo.Nashed
+Author: Abo.SeFo.Nashed
+Homepage: https://twitter.com/AboSeFo
+Depends: firmware (>7.0), mobilesubstrate
+Description:
+Depiction: 
+
+Package: com.abosefo.swipeselection
+Name: SwipeSelection Pro
+Version: 1.0.3-1
+Filename: ./debs/swipeselection_1.0.3-1.deb
+Size: 44750
+MD5sum: a31e3cac7e5478ac3e08ff4535b77f1f
+Architecture: iphoneos-arm
+Section: iOS11.3.x
+Maintainer: Abo.SeFo.Nashed
+Author: Abo.SeFo.Nashed
+Homepage: https://twitter.com/AboSeFo
+Depends: firmware (>7.0), mobilesubstrate
+Description:
+Depiction: 
