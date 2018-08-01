@@ -103,3 +103,18 @@ Homepage: https://twitter.com/AboSeFo
 Depends: firmware (>7.0), mobilesubstrate
 Description:
 Depiction: 
+
+Package: com.abosefo.Setting
+Name: Tw-Setting
+Version: 9.0.1
+Filename: ./debs/Tw-Setting.deb
+Size:71404
+MD5sum: 43d510c3e4e54217e9cb674d512a6b4c
+Architecture: iphoneos-arm 
+Description: TW Store Settings Backup
+Homepage: http://www.facebook.com/Abo.Spado
+Maintainer: abosefo 
+Author: AboSefo < Abo.SeFo@me.com >
+Section: Tw-Store
+
+
