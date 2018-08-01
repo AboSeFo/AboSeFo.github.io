@@ -108,7 +108,7 @@ Package: com.abosefo.Setting
 Name: Tw-Setting
 Version: 9.0.1
 Filename: ./debs/Tw-Setting.deb
-Size: 71404
+Size:71404
 MD5sum: 43d510c3e4e54217e9cb674d512a6b4c
 Architecture: iphoneos-arm 
 Description: TW Store Settings Backup
