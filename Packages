@@ -12,6 +12,7 @@ Author: AboSeFo < Abo.SeFo@me.com >
 Section: Tw-Store
 
 Package: com.abosefo.bioprotectx_3.0-16k
+Version: 3.0-16k
 Name: Bioprotectx
 Filename: ./debs/bioprotectx_3.0-16k.deb
 Size: 757706
