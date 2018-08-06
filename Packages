@@ -7,14 +7,17 @@ MD5sum: 43d510c3e4e54217e9cb674d512a6b4c
 Architecture: iphoneos-arm 
 Description: TW Store Settings Backup
 Homepage: http://www.facebook.com/Abo.Spado
-Maintainer: abosefo 
-Author: AboSefo < Abo.SeFo@me.com >
+Maintainer: Abo.SeFo.Nashed
+Author: AboSeFo < Abo.SeFo@me.com >
 Section: Tw-Store
 
 Package: com.abosefo.bioprotectx_3.0-16k
+Name: Bioprotectx
 Filename: ./debs/bioprotectx_3.0-16k.deb
+Size: 757706
 MD5sum: b93fe85b51b7ca927b2450b399cb670b
 Maintainer: Abo.SeFo.Nashed
-Author: Abo.SeFo.Nashed
-
+Author: AboSeFo < Abo.SeFo@me.com >
+Homepage: http://www.facebook.com/Abo.Spado
+Section: iOS11.3.x
 
