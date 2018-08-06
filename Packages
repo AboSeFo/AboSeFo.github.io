@@ -12,10 +12,10 @@ Author: AboSeFo < Abo.SeFo@me.com >
 Section: Tw-Store
 
 Package: com.abosefo.bioprotectx_3.0-16k
-Version: 3.0-16k
 Name: Bioprotectx
+Version: 3.0-16k
 Filename: ./debs/bioprotectx_3.0-16k.deb
-Size: 757706
+Size: 757788
 MD5sum: b93fe85b51b7ca927b2450b399cb670b
 Maintainer: Abo.SeFo.Nashed
 Author: AboSeFo < Abo.SeFo@me.com >
