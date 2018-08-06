@@ -11,14 +11,16 @@ Maintainer: Abo.SeFo.Nashed
 Author: AboSeFo < Abo.SeFo@me.com >
 Section: Tw-Store
 
-Package: com.abosefo.bioprotectx_3.0-16k
-Name: Bioprotectx
-Version: 3.0-16k
-Filename: ./debs/bioprotectx_3.0-16k.deb
-Size: 757788
-MD5sum: b93fe85b51b7ca927b2450b399cb670b
-Maintainer: Abo.SeFo.Nashed
-Author: AboSeFo < Abo.SeFo@me.com >
-Homepage: http://www.facebook.com/Abo.Spado
+Package: com.abosefo.
+Name: AFC2 for iOS 11
+Version: 1.2.1
+Filename: ./debs/afc2forios11_1.2.1_iphoneos-arm.deb
+Size: 13468 
+MD5sum: 98e0649491ab708d2d72e4aabab37f58
+Architecture: iphoneos-arm
 Section: iOS11.3.x
-
+Maintainer: Abo.SeFo.Nashed
+Author: Abo.SeFo.Nashed
+Homepage: https://twitter.com/AboSeFo
+Description:
+Depiction: 
