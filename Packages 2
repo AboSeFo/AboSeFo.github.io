@@ -117,4 +117,21 @@ Maintainer: abosefo
 Author: AboSefo < Abo.SeFo@me.com >
 Section: Tw-Store
 
+Package: com.abosefo.cracktool3
+Name: CrackTool3 (iOS 11)
+Version: 3.0~beta7
+Filename: ./debs/.deb
+Size: 
+MD5sum: 
+Architecture: iphoneos-arm
+Section: iOS11.3.x
+Maintainer: Abo.SeFo.Nashed
+Author: Abo.SeFo.Nashed
+Homepage: https://twitter.com/AboSeFo
+Description: Crack Tweaks on one click. arm64
+Depiction: 
+
+
+
+
 

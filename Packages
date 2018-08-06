@@ -1,109 +1,3 @@
-
-Package: com.abosefo.Barmoji
-Name: Barmoji Tw
-Version: 1.0
-Filename: ./debs/barmoji_1.0_iphoneos-arm
-Size: 7228  
-MD5sum: 769e36964ec1315a1abd41ba17d54a18
-Architecture: iphoneos-arm
-Section: iOS11.3.x
-Maintainer: Abo.SeFo.Nashed
-Author: Abo.SeFo.Nashed
-Homepage: https://twitter.com/AboSeFo
-Depends: firmware (>7.0), mobilesubstrate
-Description: Barmoji
-Depiction:
-
-Package: com.abosefo.audiorecorder2
-Name: AudioRecorder 2 (iOS 8,9,10,11)
-Version: 1.6-46k
-Filename: ./debs/audiorecorder2_1.6-46k_iphoneos-arm.deb
-Size: 3821744
-MD5sum: 0b980d9068b14d24f3899e5726d8b586
-Architecture: iphoneos-arm
-Section: iOS11.3.x
-Maintainer: Abo.SeFo.Nashed
-Author: Abo.SeFo.Nashed
-Homepage: https://twitter.com/AboSeFo
-Depends: firmware (>7.0), mobilesubstrate
-Description:
-Depiction: 
-
-Package: com.abosefo.goodwifi
-Name: GoodWiFi
-Version: 0.0~beta4
-Filename: ./debs/goodwifi_0.0~beta4_iphoneos-arm.deb
-Size: 54976
-MD5sum: 3866bac5a02349a472a818f7180e28ca
-Architecture: iphoneos-arm
-Section: iOS11.3.x
-Maintainer: Abo.SeFo.Nashed
-Author: Abo.SeFo.Nashed
-Homepage: https://twitter.com/AboSeFo
-Depends: firmware (>7.0), mobilesubstrate
-Description:
-Depiction: 
-
-Package: com.abosefo.shieldxi
-Name: shieldxi
-Version: 1.0.0
-Filename: ./debs/shieldxi_1.0.0.deb
-Size: 467800 
-MD5sum: d617c3689059ce11bd6873e908c4ed90
-Architecture: iphoneos-arm
-Section: iOS11.3.x
-Maintainer: Abo.SeFo.Nashed
-Author: Abo.SeFo.Nashed
-Homepage: https://twitter.com/AboSeFo
-Depends: firmware (>7.0), mobilesubstrate
-Description:
-Depiction: 
-
-Package: com.abosefo.cracktool3
-Name: CrackTool3 (iOS 11)
-Version: 3.0~beta3
-Filename: ./debs/cracktool3_3.0~beta3.deb
-Size: 115940 
-MD5sum: 0183f90dfe72f3d35a7be7776b45bb11
-Architecture: iphoneos-arm
-Section: iOS11.3.x
-Maintainer: Abo.SeFo.Nashed
-Author: Abo.SeFo.Nashed
-Homepage: https://twitter.com/AboSeFo
-Depends: firmware (>7.0), mobilesubstrate
-Description:
-Depiction: 
-
-Package: com.abosefo.betterx
-Name: BetterX
-Version: 1.0
-Filename: ./debs/betterx_1.0.deb
-Size: 2476 
-MD5sum: 9f0dec0f5531cb57367b3cbb5e4f5968
-Architecture: iphoneos-arm
-Section: iOS11.3.x
-Maintainer: Abo.SeFo.Nashed
-Author: Abo.SeFo.Nashed
-Homepage: https://twitter.com/AboSeFo
-Depends: firmware (>7.0), mobilesubstrate
-Description:
-Depiction: 
-
-Package: com.abosefo.swipeselection
-Name: SwipeSelection Pro
-Version: 1.0.3-1
-Filename: ./debs/swipeselection_1.0.3-1.deb
-Size: 44750
-MD5sum: a31e3cac7e5478ac3e08ff4535b77f1f
-Architecture: iphoneos-arm
-Section: iOS11.3.x
-Maintainer: Abo.SeFo.Nashed
-Author: Abo.SeFo.Nashed
-Homepage: https://twitter.com/AboSeFo
-Depends: firmware (>7.0), mobilesubstrate
-Description:
-Depiction: 
-
 Package: com.abosefo.Setting
 Name: Tw-Setting
 Version: 9.0.1
@@ -116,5 +10,11 @@ Homepage: http://www.facebook.com/Abo.Spado
 Maintainer: abosefo 
 Author: AboSefo < Abo.SeFo@me.com >
 Section: Tw-Store
+
+Package: com.abosefo.bioprotectx_3.0-16k
+Filename: ./debs/bioprotectx_3.0-16k.deb
+MD5sum: b93fe85b51b7ca927b2450b399cb670b
+Maintainer: Abo.SeFo.Nashed
+Author: Abo.SeFo.Nashed
 
 
