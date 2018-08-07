@@ -84,11 +84,11 @@ Depiction:
 Package: com.abosefo.twpng
 Name: Tw-PNG
 Version: 1.0
-Filename: ./debs/Tw-PNG.deb
+Filename: ./debs/TwPNG.deb
 Size: 419746
 MD5sum: 7bdb8221fa374de0df38dac4a9ab3af2
 Architecture: iphoneos-arm
-Section: iOS11.x
+Section: Tw-Store
 Maintainer: Abo.SeFo.Nashed
 Author: Abo.SeFo.Nashed
 Homepage: https://twitter.com/AboSeFo
