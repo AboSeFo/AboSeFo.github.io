@@ -11,16 +11,60 @@ Maintainer: Abo.SeFo.Nashed
 Author: AboSeFo < Abo.SeFo@me.com >
 Section: Tw-Store
 
-Package: com.abosefo.
+Package: com.abosefo.afc2forios11
 Name: AFC2 for iOS 11
 Version: 1.2.1
-Filename: ./debs/afc2forios11_1.2.1_iphoneos-arm.deb
-Size: 13468 
-MD5sum: 98e0649491ab708d2d72e4aabab37f58
+Filename: ./debs/afc2forios11_1.2.1.deb
+Size: 12508
+MD5sum: abfaf4ce8d2264b039dab214aa30bf67
 Architecture: iphoneos-arm
-Section: iOS11.3.x
+Section: iOS11.x
 Maintainer: Abo.SeFo.Nashed
 Author: Abo.SeFo.Nashed
 Homepage: https://twitter.com/AboSeFo
-Description:
+Description:  الوصول الى ملفات النظام عن طريق الكمبيوتر من البرامج الخارجية مثل 3uTools و iTools و iMazing وغيرها من البرامج دون الحاجة الى منفذ SSH
 Depiction: 
+
+Package: com.abosefo.appinstalleripa
+Name: App Installer IPA
+Version: 1.2.1
+Filename: ./debs/appinstalleripa_1.0.4.0.deb
+Size: 282426
+MD5sum: f896ed9cccee62f2661f24dcc25e7f96
+Architecture: iphoneos-arm
+Section: iOS11.x
+Maintainer: Abo.SeFo.Nashed
+Author: Abo.SeFo.Nashed
+Homepage: https://twitter.com/AboSeFo
+Description:  الوصول الى ملفات النظام عن طريق الكمبيوتر من البرامج الخارجية مث  تثبيت اَي تطبيق بصيغة ipa بدون الحاجه لملف البلست ولاكن لازم تكون مدمجه في الشهادة او تستخدم اداة AppSync
+Depiction: 
+
+Package: com.abosefo.appsyncunified
+Name: AppSync Unified
+Version: 1.2.1
+Filename: ./debs/appsyncunified_30.0.deb
+Size: 15380
+MD5sum: ede9f5b5c8dbdf626ba8f0d8fbdd7c1b
+Architecture: iphoneos-arm
+Section: iOS11.x
+Maintainer: Abo.SeFo.Nashed
+Author: Abo.SeFo.Nashed
+Homepage: https://twitter.com/AboSeFo
+Description:Enables The ability to install unsigned/fakesighed iOS applications.
+Depiction: 
+
+Package: com.abosefo.barmoji
+Name: Barmoji
+Version: 1.2.1
+Filename: ./debs/appsyncunified_30.0.deb
+Size: 8060
+MD5sum: 7b31d23647e1a616d02bef335d9bdb78
+Architecture: iphoneos-arm
+Section: iOS11.x
+Maintainer: Abo.SeFo.Nashed
+Author: Abo.SeFo.Nashed
+Homepage: https://twitter.com/AboSeFo
+Description: 
+Depiction: 
+
+
