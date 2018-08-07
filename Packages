@@ -70,7 +70,7 @@ Depiction:
 Package: com.abosefo.swipeselection
 Name: SwipeSelection Pro
 Version: 1.0.3-1
-Filename: ./debs/appsyncunified_30.0.deb
+Filename: ./debs/swipeselection_1.0.3-1.deb
 Size: 44964
 MD5sum: 64fa392ea5102bb28a9dd1949798c1b3
 Architecture: iphoneos-arm
@@ -81,4 +81,17 @@ Homepage: https://twitter.com/AboSeFo
 Description: 
 Depiction: 
 
+Package: com.abosefo.twpng
+Name: Tw-PNG
+Version: 1.0
+Filename: ./debs/Tw-PNG.deb
+Size: 419746
+MD5sum: 7bdb8221fa374de0df38dac4a9ab3af2
+Architecture: iphoneos-arm
+Section: iOS11.x
+Maintainer: Abo.SeFo.Nashed
+Author: Abo.SeFo.Nashed
+Homepage: https://twitter.com/AboSeFo
+Description: 
+Depiction: 
 
